@@ -12,6 +12,9 @@ Set the seedling value at $ 100 per BSV, anything over $ 100 will be place in a 
 Cashpooling
 Why have your money in a bank that only speculates at your risk and gives you no interest? Why not send all your money to your personal ID XFA email directly from payroll system, directly connected with HandCash, Tax Office, 80 % of all automated payments, access to cashpool of 20 % for various activities.
 Connect https://nexo.io/?t=card (be fast 
+https://youtu.be/WVWxCgzPihc Can this infrastructure be moved to BSV?
+Solid products perfect for a incubation system with risk/reward structures, based on fairness in distribution of risk and originality, based on invaluable contribution, consensus current understanding of contribution or lack thereof. https://akropolis.io/#products
+https://www.cashflowrelay.com/
 
 
 Satoshii
