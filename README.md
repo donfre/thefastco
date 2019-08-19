@@ -61,7 +61,7 @@ https://github.com/diaspora/diaspora
 
 https://github.com/axelor/axelor-business-suite
 
-Partners
+Proposed partners
 EFF - European Finance Function
 
 iRonin/SII/Netguru
