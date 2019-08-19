@@ -39,14 +39,11 @@ Gig Sharing Economy
 Roles
 Ideator, Operator and Executor: supported by accredited specialists who can provide trusted data and datasets.
 
-36 months contract
-
-
+36 months contract (trust in shared workload over a agreed upon timeframe. See the light in the tunnel. Important to be able to trust eachother from day one and have eachothers back.)
 
 Easy exact numbers
 1,2,3,4,5,10,20,36,49,80
 (1I+1O+1E)+(1BA+1TFC)/0.01-1
-
 
 Ownership
 49/(1+1)/49
@@ -54,7 +51,7 @@ Ownership
 Founders/BA+TFC/Investors
 
 Recruitment
-In our team we have 3 psychologists with complementary backgrounds; pedagogics, IT and enterprise. They have independently confirmed the validity of proposed solution. 
+In our team we have 3 psychologists with complementary backgrounds; pedagogics, IT and enterprise. They have independently confirmed the validity of proposed solution. Instead of recruiting for specific positions where 6 in 10 hates their work or recuit for specific personality and ability. We believe this can be achieved by using the Big 5 personality test, over Myers Briggs, HR workassessment tests or similar overpriced, less correlated tests. The test is cheap $ 9.99, could be encoded by the various keys and with layers of XFA. Those personality profiles could be randomized and anonymized for unbiased conclusions. understandmyself.com
 
 Technology
 https://github.com/diaspora/diaspora
